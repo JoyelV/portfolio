@@ -1,12 +1,12 @@
 # Joyel's Portfolio
 
 ## Description
-This is a personal portfolio website for Joyel Varghese, showcasing his skills, projects, and background. The website is built using HTML, CSS, and JavaScript and serves as a professional representation of his career transition from Mechanical Engineering to Software Development.
+This is my personal portfolio website, showcasing my skills, projects, and background. The website is built using HTML, CSS, and JavaScript and serves as a professional representation of my career transition from Mechanical Engineering to Software Development.
 
 ## Features
 - **Responsive Design:** Ensures the website is accessible on all devices.
 - **Navigation Menu:** Smooth scrolling navigation to different sections.
-- **About Section:** Details about Joyel's background and career journey.
+- **About Section:** Details about my background and career journey.
 - **Skills Section:** List of programming languages, databases, and software tools.
 - **Projects Section:** Showcases past projects with links to GitHub repositories.
 - **Fun Facts Section:** Interesting technology-related facts.
